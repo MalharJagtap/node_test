@@ -3,7 +3,7 @@ name: Build Pipeline
 on:
   push:
     branches:
-      - 'copy-paste-your-branch-name'
+      - 'SCRUM-9-Integrate-NPM-Project-with-DevOps-Integration'
 
 jobs:
   build:
